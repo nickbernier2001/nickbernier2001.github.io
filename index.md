@@ -14,4 +14,5 @@
 </article>
 <article>
   <a href="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/building_inventory.csv">The Data</a>
+  <a href="https://github.com/nickbernier2001/nickbernier2001.github.io/blob/main/Yoo-Jacob-Grayburn-Emily-Bernier-Nick-Wongkarnta-Dorothy-Assignment10.ipynb">The Analysis</a>
   
