@@ -13,5 +13,5 @@
   <img src="homework_10_image_2.png">
 </article>
 <article>
-  <a href="url">The Data</a>
+  <a href="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/building_inventory.csv">The Data</a>
   
