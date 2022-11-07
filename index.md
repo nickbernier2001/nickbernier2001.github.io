@@ -3,4 +3,6 @@
 <article>
   <header>
     <h1> Interactive Image </h1>
-    <img src="">
+  </header>
+  <img src="homework_10_image_1.png">
+</article>
