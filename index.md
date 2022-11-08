@@ -5,6 +5,7 @@
     <h1> Interactive Graph </h1>
   </header>
   <vegachart schema-url="/assets/json/sidebyside.json" style="width: 100%"></vegachart>
+  <script src="file:///C:/Users/Louie/Downloads/Yoo-Jacob-Grayburn-Emily-Bernier-Nick-Wongkarnta-Dorothy-Assignment10.html"></script>
 </article>
 <article>
   <header>
