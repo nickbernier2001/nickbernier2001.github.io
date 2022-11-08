@@ -1,7 +1,7 @@
 ---
-name: Vega Lite Example Project
-tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
+name: Homework 10
+tools: [Python, Altair, Dataviz]
+image: assets/pngs/viz_png.png
 description: This is a "showcase" project that uses vega-lite for interactive viz!
 custom_js:
   - vega.min
@@ -17,11 +17,7 @@ Example comes from this [great blog post right here](https://blog.4dcu.be/progra
 
 We can use a vegachart HTML tag like so:
 
-```
-<vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
-```
-
-<vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/interactive_chart.json" style="width: 100%"></vegachart>
 
 In theory, you can also use [Jekyll hooks](https://jekyllrb.com/docs/plugins/hooks/) to do it, but I haven't figured out a way that looks nice yet.
 
