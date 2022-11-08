@@ -4,7 +4,7 @@
   <header>
     <h1> Interactive Graph </h1>
   </header>
-  <img src="homework_10_image_1.png">
+  <vegachart schema-url="/assets/json/sidebyside.json" style="width: 100%"></vegachart>
 </article>
 <article>
   <header>
