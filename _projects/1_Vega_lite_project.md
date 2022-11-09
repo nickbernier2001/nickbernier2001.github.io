@@ -2,7 +2,7 @@
 name: Homework 10
 tools: [Python, Altair, Dataviz]
 image: assets/pngs/viz_png.png
-description: This is a "showcase" project that uses vega-lite for interactive viz!
+description: This is Nick Bernier, Jacob Yoo, Emily Grayburn and Dorothy Wongkarnta's Homework 10 Submission!
 custom_js:
   - vega.min
   - vega-lite.min
@@ -16,9 +16,10 @@ custom_js:
 <vegachart schema-url="{{ site.baseurl }}/assets/json/interactive_chart.json" style="width: 100%"></vegachart>
 
 
-
 # Second Chart
+
 <vegachart schema-url="{{ site.baseurl }}/assets/json/chart_hw.json" style="width: 100%"></vegachart>
+
 
 <div class="left">
 {% include elements/button.html link="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/building_inventory.csv" text="The Data" %}
