@@ -27,7 +27,7 @@ custom_js:
 </div>
 
 <div class="right"><div class="right">
-{% include elements/button.html link="https://github.com/nickbernier2001/Jupyter-Homework-Notebooks/blob/main/bernier-nick-yoo-jacob-ghela-devang-grayburn-emily-finalproject-part2-Copy1.ipynb" text="Hardship Index Analysis" %}
-{% include elements/button.html link="https://github.com/nickbernier2001/Jupyter-Homework-Notebooks/blob/main/bernier-nick-yoo-jacob-ghela-devang-grayburn-emily-finalproject-part2-Copy1.ipynb" text="Language Data Analysis" %}
+{% include elements/button.html link="https://github.com/nickbernier2001/nickbernier2001.github.io/python_notebooks/bernier-nick-yoo-jacob-ghela-devang-grayburn-emily-finalproject-part2-Copy1.ipynb" text="Hardship Index Analysis" %}
+{% include elements/button.html link="https://github.com/nickbernier2001/nickbernier2001.github.io/python_notebooks/bernier-nick-yoo-jacob-ghela-devang-grayburn-emily-finalproject-part2-Copy1.ipynb" text="Language Data Analysis" %}
 </div>
 
