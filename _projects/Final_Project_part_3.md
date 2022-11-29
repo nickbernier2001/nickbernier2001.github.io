@@ -13,7 +13,7 @@ custom_js:
 
 # Interactive Scatterplot 
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/final_interactive_chart.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/final_interactive_chart.json" style="width: 50%"></vegachart>
 
 
 # Second Chart
