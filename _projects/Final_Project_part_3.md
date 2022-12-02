@@ -16,10 +16,13 @@ custom_js:
 <vegachart schema-url="{{ site.baseurl }}/assets/json/final_interactive_chart.json" style="width: 50%"></vegachart>
 
 
-# Second Chart
+# Primary Languages Spoken in the Community of Edgewater
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/chart_hw.json" style="width: 100%"></vegachart>
+<img src="/assets/pngs/Edgewater_Languages_Spoken.png" alt="Edgewater Languages">
 
+# Amount of Spanish Only Speakers in Each Community of Chicago
+
+<img src="/assets/pngs/Spanish_Speakers_in_each_Community.png" alt="Spanish Only Speakers In Chicago">
 
 <div class="left">
 {% include elements/button.html link="https://data.cityofchicago.org/Health-Human-Services/Census-Data-Languages-spoken-in-Chicago-2008-2012/a2fk-ec6q" text="Language Data" %}
