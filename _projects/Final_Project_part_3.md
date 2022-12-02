@@ -29,8 +29,8 @@ custom_js:
 {% include elements/button.html link="https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2?cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-DB0201EN-SkillsNetwork-20127838&cm_mmca1=000026UJ&cm_mmca2=10006555&cm_mmca3=M12345678&cvosrc=email.Newsletter.M12345678&cvo_campaign=000026UJ" text="Hardship Data" %}
 </div>
 
-<div class="right"><div class="right">
-{% include elements/button.html link="https://github.com/nickbernier2001/nickbernier2001.github.io/python_notebooks/bernier-nick-yoo-jacob-ghela-devang-grayburn-emily-finalproject-part2-Copy1.ipynb" text="Hardship Index Analysis" %}
+<div class="right">
+{% include elements/button.html link="https://github.com/nickbernier2001/nickbernier2001.github.io/python_notebooks/bernier-nick-yoo-jacob-ghela-devang-grayburn-emily-finalproject-part2-Copy1.ipynb" text="Hardship Data Analysis" %}
 {% include elements/button.html link="https://github.com/nickbernier2001/nickbernier2001.github.io/python_notebooks/bernier-nick-yoo-jacob-ghela-devang-grayburn-emily-finalproject-part2-Copy1.ipynb" text="Language Data Analysis" %}
 </div>
 
