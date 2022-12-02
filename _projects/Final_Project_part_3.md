@@ -9,7 +9,7 @@ custom_js:
   - vega-embed.min
   - justcharts
 ---
-
+# Socioeconomic Indicators and Languages Spoken In Communities in Chicago from 2008-2012
 
 # Interactive Scatterplot 
 
@@ -27,10 +27,11 @@ custom_js:
 <div class="left">
 {% include elements/button.html link="https://data.cityofchicago.org/Health-Human-Services/Census-Data-Languages-spoken-in-Chicago-2008-2012/a2fk-ec6q" text="Language Data" %}
 {% include elements/button.html link="https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2?cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-DB0201EN-SkillsNetwork-20127838&cm_mmca1=000026UJ&cm_mmca2=10006555&cm_mmca3=M12345678&cvosrc=email.Newsletter.M12345678&cvo_campaign=000026UJ" text="Hardship Data" %}
+{% include elements/button.html link="https://data.cityofchicago.org/d/a2fk-ec6q/visualization" text="Spanish Languages Visualization" %}
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/nickbernier2001/nickbernier2001.github.io/python_notebooks/bernier-nick-yoo-jacob-ghela-devang-grayburn-emily-finalproject-part2-Copy1.ipynb" text="Hardship Data Analysis" %}
-{% include elements/button.html link="https://github.com/nickbernier2001/nickbernier2001.github.io/python_notebooks/bernier-nick-yoo-jacob-ghela-devang-grayburn-emily-finalproject-part2-Copy1.ipynb" text="Language Data Analysis" %}
+{% include elements/button.html link="https://github.com/nickbernier2001/Jupyter-Homework-Notebooks/blob/main/bernier-nick-yoo-jacob-ghela-devang-grayburn-emily-finalproject-part2-Copy1.ipynb" text="Hardship Data Analysis" %}
+{% include elements/button.html link="https://github.com/nickbernier2001/Jupyter-Homework-Notebooks/blob/main/contextual_viz.ipynb" text="Language Data Analysis" %}
 </div>
 
